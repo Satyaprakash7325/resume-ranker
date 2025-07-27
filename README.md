@@ -1,7 +1,5 @@
 # Resume Analyzer Web App :memo::computer:
 
-![GitHub last commit](https://img.shields.io/github/last-commit/iamamanporwal/resume-ranker)
-![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 
 An interactive web application that analyzes resumes based on a job description using natural language processing techniques.
 
